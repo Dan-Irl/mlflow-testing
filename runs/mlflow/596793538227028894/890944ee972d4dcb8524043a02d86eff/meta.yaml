@@ -1,0 +1,15 @@
+artifact_uri: /home/dan/repos/cancer-classification-taipy/runs/mlflow/596793538227028894/890944ee972d4dcb8524043a02d86eff/artifacts
+end_time: 1707672100820
+entry_point_name: ''
+experiment_id: '596793538227028894'
+lifecycle_stage: active
+run_id: 890944ee972d4dcb8524043a02d86eff
+run_name: testrun1
+run_uuid: 890944ee972d4dcb8524043a02d86eff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707671696233
+status: 3
+tags: []
+user_id: dan
